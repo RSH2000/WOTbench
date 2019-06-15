@@ -1,2 +1,2 @@
 # WOTbench
-a Web of Things Benchmark
+A Web of Things Benchmark
