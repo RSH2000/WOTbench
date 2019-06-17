@@ -1,0 +1,6 @@
+request,Server#,Send time_stamp(usec),Service time(usec), Send time(usec),Receive time(usec), Response time(usec),Send Lag,R-S,Send delay,Expected iat,Submitted iat
+coap://localhost/fff977524dd027cf,0,1000000,0,1000252,1000531,279,252,279,252,200000,1000000
+coap://localhost/fff96a801c9d09ed,0,1200000,0,1200051,1200300,249,51,249,51,200000,200000
+coap://localhost/fff96a801c9d09ed,0,1400000,0,1400039,1400253,214,39,214,39,200000,200000
+coap://localhost/fffe6ce981457e6e,0,1600000,0,1600041,1600367,326,41,326,41,200000,200000
+coap://localhost/fff80dfaddafd5fc,0,1800000,0,1800040,1800310,270,40,270,40,200000,200000

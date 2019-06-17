@@ -1,0 +1,9 @@
+TestName,ResultPath,NumSrvNode,ThreadNum,ServerInfoFile,Killall,NetworkIPv,NetworkMode,DelaySettingFile,WLFileName,ResFileName,StatFileName,UtilFileName,WLIAT,WLST,STDIST,WLBurstCorr,Duration,CD,BusyCycle,CDServiceTime,CDIAT,DeviceAffinity,CDAffinity,CPUShare
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,500000,30000,e,10,120,0,0,100000,1000000,0,0,100
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,250000,30000,e,10,120,0,0,100000,1000000,0,0,100
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,150000,30000,e,10,120,0,0,100000,1000000,0,0,100
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,120000,30000,e,10,120,0,0,100000,1000000,0,0,100
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,100000,30000,e,10,120,0,0,100000,1000000,0,0,100
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,90000,30000,e,10,120,0,0,100000,1000000,0,0,100
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,80000,30000,e,10,120,0,0,100000,1000000,0,0,100
+half_low_power_usecase,,10,1,Info,1,4,0,0,0,,,,70000,30000,e,10,120,0,0,100000,1000000,0,0,100
